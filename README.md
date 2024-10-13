@@ -2,7 +2,7 @@
 This repository contains the codes for our published paper "Underwater Image Restoration via Constrained Color Compensation and Background Light Color Space-based Haze-Line Model". 
 
 ## Requirements
-Matlab 2017a.
+Matlab 2023b.
 
 ## Usage
 - Run main.m for testing.

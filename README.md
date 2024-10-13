@@ -10,7 +10,7 @@ The quality of underwater imaging is significantly degraded by light scattering 
 Matlab 2023b.
 
 ## Usage
-- Run main.m for testing its performance.
+- Run main.m to testing the performance.
 
 ## Citation
 If you use our code and dataset for research, please cite our paper:

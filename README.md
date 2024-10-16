@@ -10,9 +10,9 @@ The quality of underwater imaging is significantly degraded by light scattering 
 Matlab 2023b.
 
 ## Usage
-- Run main.m to testing the performance.
+- Run main.m to test the performance of our codes.
 
 ## Citation
-If you use our code and dataset for research, please cite our paper:
+If you use our codes and datasets for research, please cite our paper:
 
 Wang J, Wan M, Xu Y, et al. Underwater Image Restoration via Constrained Color Compensation and Background Light Color Space-based Haze-Line Model[J], 2024, 62: 1-15.

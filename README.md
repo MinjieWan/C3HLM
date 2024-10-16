@@ -15,4 +15,4 @@ Matlab 2023b.
 ## Citation
 If you use our codes and datasets for research, please cite our paper:
 
-Wang J, Wan M, Xu Y, et al. Underwater Image Restoration via Constrained Color Compensation and Background Light Color Space-based Haze-Line Model[J], 2024, 62: 1-15.
+Wang J, Wan M, Xu Y, et al. Underwater Image Restoration via Constrained Color Compensation and Background Light Color Space-based Haze-Line Model[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1-15.
